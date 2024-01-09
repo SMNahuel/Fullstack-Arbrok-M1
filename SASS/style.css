@@ -1,0 +1,25 @@
+/* Usando variables  */
+body {
+  display: flex;
+  justify-content: flex-end;
+  /* Usando nesting */
+  font: 100% Helvetica, sans-serif;
+  color: #f3f3f3;
+}
+body p {
+  color: #188717;
+}
+
+.container {
+  display: flex;
+  width: 500px;
+  height: 500px;
+  background-color: #188717;
+}
+
+.imgPhoto {
+  width: 200px;
+  height: 200px;
+}
+
+/*# sourceMappingURL=style.css.map */

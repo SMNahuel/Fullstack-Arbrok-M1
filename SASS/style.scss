@@ -1,0 +1,23 @@
+@import "variables";
+@import "mixin";
+
+body {
+  display: flex;
+  justify-content: flex-end;
+  /* Usando nesting */
+  font: 100% $font-stack;
+  color: $primary-color;
+  p {
+    color: $secondary-color;
+  }
+}
+
+.container {
+  display: flex;
+  @include cuadrar(500px);
+  background-color: $secondary-color;
+}
+
+.imgPhoto {
+  @include cuadrar(200px);
+}
