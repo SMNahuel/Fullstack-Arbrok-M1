@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["variables.scss","herencia.scss","style.scss","mixin.scss"],"names":[],"mappings":"AAAQ;AACA;ACDR;EACI;EACA;;;AAGF;EACE;EACA;;;ACCJ;EACE;;;AAGF;EACE,aFXoB;;;AEctB;EACE,aFdsB;EEetB;;;AAGF;ECfI,ODgBkB;ECflB,QDeyB;EAC3B,kBFjBqB;;;AEmBvB;EACE,aFxBoB;;;AEoClB;EACE;;;AAKJ;EACE,OFtCc;EEuCd","file":"style.css"}

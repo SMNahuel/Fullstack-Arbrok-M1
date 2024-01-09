@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.amarillo {
+  color: yellow;
+}
+
+.container > p {
+  background-color: white;
+  color: red;
+}
+
+.p-container{
+  background-color: aqua;
+  text-align: center;
+  font-weight: bold;
+  padding: 1em;
+}
+
+/* Definimos una clase */
+
+.miPrimeraClass{
+  padding: 1em;
+  border: 10px solid red;
+}
+
+.miPrimeraClass > ul > li {
+  color: white;
+  cursor: pointer;
+}
+
+.miPrimeraClass:hover{
+  background-color: white;
+}

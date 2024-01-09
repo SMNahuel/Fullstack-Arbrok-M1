@@ -1,0 +1,49 @@
+@import "variables";
+@import "mixin";
+@import "herencia";
+
+.proyect {
+  @extend %deCostado;
+}
+
+body {
+  padding: 20px;
+}
+
+h2 {
+  font-family: $font-family-primary;
+}
+
+p {
+  font-family: $font-family-secondary;
+  font-weight: bold;
+}
+
+.imgThumbails {
+  @include rectangulo(500px, 300px);
+  background-color: $font-color-secondary;
+}
+.navbar {
+  font-family: $font-family-primary;
+  @extend %deCostado;
+}
+
+.header {
+  @extend %deCostado;
+}
+
+footer {
+  @extend %deCostado;
+  .social {
+    @extend %cajasFila;
+    p {
+      margin: 10px;
+    }
+  }
+}
+.name {
+  p {
+    color: $font-color-link;
+    font-weight: bolder;
+  }
+}

@@ -1,0 +1,9 @@
+@mixin ponerCostados(){
+    display: flex;
+    justify-content: space-between;
+}
+
+@mixin rectangulo($width, $height){
+    width: $width;
+    height: $height;
+}
