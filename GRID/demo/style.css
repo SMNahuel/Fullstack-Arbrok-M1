@@ -1,0 +1,33 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(30px, 1fr));
+  background: #808080;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.item {
+  background: blue;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.item{
+    background-color: red;
+}
+
+.item-1{
+    
+}
+
+.item-2{
+    
+}
+
+.item-3{
+    
+}
+
+.item-4{
+    
+}
