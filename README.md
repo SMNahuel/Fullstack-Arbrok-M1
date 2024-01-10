@@ -10,7 +10,8 @@ PROGRAMA DE ESTUDIO
 7. Sass.
 8. Proyecto práctico de HTML y CSS (portfolio personal).
 
-► Módulo 2: Git, GitHub y JavaScript Fundamentals. (12 clases) 
+► Módulo 2: Git, GitHub y JavaScript Fundamentals. (12 clases)
+
 9. Introducción a Git y GitHub: control de versiones y colaboración en proyectos.
 10. Introducción a JavaScript, variables, tipos de datos.
 11. Operadores, condicionales y bucles.
@@ -24,7 +25,8 @@ PROGRAMA DE ESTUDIO
 19. Proyecto práctico de JavaScript básico (Aplicación de Tareas).
 20. Repaso y práctica de JavaScript básico.
 
-► Módulo 3: JavaScript Avanzado y Node.js (11 clases) 
+► Módulo 3: JavaScript Avanzado y Node.js (11 clases)
+
 21. Programación orientada a objetos en JavaScript.(parte 1)
 22. Programación orientada a objetos en JavaScript.(parte 2)
 23. Introducción a Node.js y el entorno de desarrollo.
@@ -36,7 +38,8 @@ PROGRAMA DE ESTUDIO
 29. Conexión y manipulación de datos con MongoDB y Mongoose.
 30. Proyecto práctico de lista de tareas con Node.js y MongoDB.
 
-► Módulo 4: Proyectos prácticos y JavaScript avanzado. (10 clases) 
+► Módulo 4: Proyectos prácticos y JavaScript avanzado. (10 clases)
+
 31. Proyecto práctico de lista de tareas (continuación).
 32. Consumo de la API desde el cliente con JavaScript.
 33. Almacenamiento local: localStorage y sessionStorage.
